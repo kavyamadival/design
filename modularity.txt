@@ -1,0 +1,3 @@
+design evolution criteria
+large system is devided into small componets
+it has its own name and behaviour
